@@ -1,0 +1,256 @@
+{
+  "arabicAlphabet": [
+    {
+      "id": "1",
+      "letter": "١",
+      "transliteration": "`alif",
+      "asInEnglishWord": "father",
+      "writtenAsFinalForm": "اـ",
+      "writtenAsMedialForm": "Can't attach a letter after it.",
+      "writtenAsInitialForm": "Can't attach a letter after it."
+    },
+    {
+      "id": "2",
+      "letter": "ب",
+      "transliteration": "bā`",
+      "asInEnglishWord": "book",
+      "writtenAsFinalForm": "بـ",
+      "writtenAsMedialForm": "ـبـ",
+      "writtenAsInitialForm": "ـب"
+    },
+    {
+      "id": "3",
+      "letter": "ت",
+      "transliteration": "tā`",
+      "asInEnglishWord": "table",
+      "writtenAsFinalForm": "تـ",
+      "writtenAsMedialForm": "ـتـ",
+      "writtenAsInitialForm": "ـت"
+    },
+    {
+      "id": "4",
+      "letter": "ث",
+      "transliteration": "thā`",
+      "asInEnglishWord": "thin",
+      "writtenAsFinalForm": "ثـ",
+      "writtenAsMedialForm": "ـثـ",
+      "writtenAsInitialForm": "ـث"
+    },
+    {
+      "id": "5",
+      "letter": "ج",
+      "transliteration": "jīm",
+      "asInEnglishWord": "jack",
+      "writtenAsFinalForm": "جـ",
+      "writtenAsMedialForm": "ـجـ",
+      "writtenAsInitialForm": "ـج"
+    },
+    {
+      "id": "6",
+      "letter": "ح",
+      "transliteration": "ḥā`",
+      "asInEnglishWord": "-",
+      "writtenAsFinalForm": "حـ",
+      "writtenAsMedialForm": "ـحـ",
+      "writtenAsInitialForm": "ـح"
+    },
+    {
+      "id": "7",
+      "letter": "خ",
+      "transliteration": "khā`",
+      "asInEnglishWord": "-",
+      "writtenAsFinalForm": "خـ",
+      "writtenAsMedialForm": "ـخـ",
+      "writtenAsInitialForm": "ـخ"
+    },
+    {
+      "id": "8",
+      "letter": "د",
+      "transliteration": "dāl",
+      "asInEnglishWord": "dolly",
+      "writtenAsFinalForm": "دـ",
+      "writtenAsMedialForm": "Can't attach a letter after it.",
+      "writtenAsInitialForm": "Can't attach a letter after it."
+    },
+    {
+      "id": "9",
+      "letter": "ذ",
+      "transliteration": "dhāl",
+      "asInEnglishWord": "that",
+      "writtenAsFinalForm": "ذـ",
+      "writtenAsMedialForm": "Can't attach a letter after it.",
+      "writtenAsInitialForm": "Can't attach a letter after it."
+    },
+    {
+      "id": "10",
+      "letter": "ر",
+      "transliteration": "rā`",
+      "asInEnglishWord": "-",
+      "writtenAsFinalForm": "رـ",
+      "writtenAsMedialForm": "Can't attach a letter after it.",
+      "writtenAsInitialForm": "Can't attach a letter after it."
+    },
+    {
+      "id": "11",
+      "letter": "ز",
+      "transliteration": "zāy",
+      "asInEnglishWord": "zebra",
+      "writtenAsFinalForm": "زـ",
+      "writtenAsMedialForm": "Can't attach a letter after it.",
+      "writtenAsInitialForm": "Can't attach a letter after it."
+    },
+    {
+      "id": "12",
+      "letter": "س",
+      "transliteration": "sīn",
+      "asInEnglishWord": "sun",
+      "writtenAsFinalForm": "سـ",
+      "writtenAsMedialForm": "ـسـ",
+      "writtenAsInitialForm": "ـس"
+    },
+    {
+      "id": "13",
+      "letter": "ش",
+      "transliteration": "shīn",
+      "asInEnglishWord": "shatter",
+      "writtenAsFinalForm": "شـ",
+      "writtenAsMedialForm": "ـشـ",
+      "writtenAsInitialForm": "ـش"
+    },
+    {
+      "id": "14",
+      "letter": "ص",
+      "transliteration": "ṣād",
+      "asInEnglishWord": "-",
+      "writtenAsFinalForm": "صـ",
+      "writtenAsMedialForm": "ـصـ",
+      "writtenAsInitialForm": "ـص"
+    },
+    {
+      "id": "15",
+      "letter": "ض",
+      "transliteration": "ḍād",
+      "asInEnglishWord": "-",
+      "writtenAsFinalForm": "ضـ",
+      "writtenAsMedialForm": "ـضـ",
+      "writtenAsInitialForm": "ـض"
+    },
+    {
+      "id": "16",
+      "letter": "ط",
+      "transliteration": "ṭā`",
+      "asInEnglishWord": "-",
+      "writtenAsFinalForm": "طـ",
+      "writtenAsMedialForm": "ـطـ",
+      "writtenAsInitialForm": "ـط"
+    },
+    {
+      "id": "17",
+      "letter": "ظ",
+      "transliteration": "ẓā`",
+      "asInEnglishWord": "-",
+      "writtenAsFinalForm": "ظـ",
+      "writtenAsMedialForm": "ـظـ",
+      "writtenAsInitialForm": "ـظ"
+    },
+    {
+      "id": "18",
+      "letter": "ع",
+      "transliteration": "ˁayn",
+      "asInEnglishWord": "-",
+      "writtenAsFinalForm": "عـ",
+      "writtenAsMedialForm": "ـعـ",
+      "writtenAsInitialForm": "ـع"
+    },
+    {
+      "id": "19",
+      "letter": "غ",
+      "transliteration": "ghayn",
+      "asInEnglishWord": "-",
+      "writtenAsFinalForm": "غـ",
+      "writtenAsMedialForm": "ـغـ",
+      "writtenAsInitialForm": "ـغ"
+    },
+    {
+      "id": "20",
+      "letter": "ف",
+      "transliteration": "fā`",
+      "asInEnglishWord": "fat",
+      "writtenAsFinalForm": "فـ",
+      "writtenAsMedialForm": "ـفـ",
+      "writtenAsInitialForm": "ـف"
+    },
+    {
+      "id": "21",
+      "letter": "ق",
+      "transliteration": "qāf",
+      "asInEnglishWord": "-",
+      "writtenAsFinalForm": "قـ",
+      "writtenAsMedialForm": "ـقـ",
+      "writtenAsInitialForm": "ـق"
+    },
+    {
+      "id": "22",
+      "letter": "ك",
+      "transliteration": "kāf",
+      "asInEnglishWord": "king",
+      "writtenAsFinalForm": "كـ",
+      "writtenAsMedialForm": "ـكـ",
+      "writtenAsInitialForm": "ـك"
+    },
+    {
+      "id": "23",
+      "letter": "ل",
+      "transliteration": "lām",
+      "asInEnglishWord": "light",
+      "writtenAsFinalForm": "لـ",
+      "writtenAsMedialForm": "ـلـ",
+      "writtenAsInitialForm": "ـل"
+    },
+    {
+      "id": "24",
+      "letter": "م",
+      "transliteration": "mīm",
+      "asInEnglishWord": "mad",
+      "writtenAsFinalForm": "مـ",
+      "writtenAsMedialForm": "ـمـ",
+      "writtenAsInitialForm": "ـم"
+    },
+    {
+      "id": "25",
+      "letter": "ن",
+      "transliteration": "nūn",
+      "asInEnglishWord": "night",
+      "writtenAsFinalForm": "نـ",
+      "writtenAsMedialForm": "ـنـ",
+      "writtenAsInitialForm": "ـن"
+    },
+    {
+      "id": "26",
+      "letter": "ه",
+      "transliteration": "hā`",
+      "asInEnglishWord": "hello",
+      "writtenAsFinalForm": "هـ",
+      "writtenAsMedialForm": "ـهـ",
+      "writtenAsInitialForm": "ـه"
+    },
+    {
+      "id": "27",
+      "letter": "و",
+      "transliteration": "waw",
+      "asInEnglishWord": "wing",
+      "writtenAsFinalForm": "وـ",
+      "writtenAsMedialForm": "Can't attach a letter after it.",
+      "writtenAsInitialForm": "Can't attach a letter after it."
+    },
+    {
+      "id": "28",
+      "letter": "ي",
+      "transliteration": "yā`",
+      "asInEnglishWord": "yellow",
+      "writtenAsFinalForm": "يـ",
+      "writtenAsMedialForm": "ـيـ",
+      "writtenAsInitialForm": "ـي"
+    }
+  ]
+}
