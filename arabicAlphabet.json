@@ -49,7 +49,7 @@
       "id": "6",
       "letter": "ح",
       "transliteration": "ḥā`",
-      "asInEnglishWord": "-",
+      "asInEnglishWord": "n/a",
       "writtenAsFinalForm": "حـ",
       "writtenAsMedialForm": "ـحـ",
       "writtenAsInitialForm": "ـح"
@@ -58,7 +58,7 @@
       "id": "7",
       "letter": "خ",
       "transliteration": "khā`",
-      "asInEnglishWord": "-",
+      "asInEnglishWord": "n/a",
       "writtenAsFinalForm": "خـ",
       "writtenAsMedialForm": "ـخـ",
       "writtenAsInitialForm": "ـخ"
@@ -85,7 +85,7 @@
       "id": "10",
       "letter": "ر",
       "transliteration": "rā`",
-      "asInEnglishWord": "-",
+      "asInEnglishWord": "n/a",
       "writtenAsFinalForm": "رـ",
       "writtenAsMedialForm": "Can't attach a letter after it.",
       "writtenAsInitialForm": "Can't attach a letter after it."
@@ -121,7 +121,7 @@
       "id": "14",
       "letter": "ص",
       "transliteration": "ṣād",
-      "asInEnglishWord": "-",
+      "asInEnglishWord": "n/a",
       "writtenAsFinalForm": "صـ",
       "writtenAsMedialForm": "ـصـ",
       "writtenAsInitialForm": "ـص"
@@ -130,7 +130,7 @@
       "id": "15",
       "letter": "ض",
       "transliteration": "ḍād",
-      "asInEnglishWord": "-",
+      "asInEnglishWord": "n/a",
       "writtenAsFinalForm": "ضـ",
       "writtenAsMedialForm": "ـضـ",
       "writtenAsInitialForm": "ـض"
@@ -139,7 +139,7 @@
       "id": "16",
       "letter": "ط",
       "transliteration": "ṭā`",
-      "asInEnglishWord": "-",
+      "asInEnglishWord": "n/a",
       "writtenAsFinalForm": "طـ",
       "writtenAsMedialForm": "ـطـ",
       "writtenAsInitialForm": "ـط"
@@ -148,7 +148,7 @@
       "id": "17",
       "letter": "ظ",
       "transliteration": "ẓā`",
-      "asInEnglishWord": "-",
+      "asInEnglishWord": "n/a",
       "writtenAsFinalForm": "ظـ",
       "writtenAsMedialForm": "ـظـ",
       "writtenAsInitialForm": "ـظ"
@@ -157,7 +157,7 @@
       "id": "18",
       "letter": "ع",
       "transliteration": "ˁayn",
-      "asInEnglishWord": "-",
+      "asInEnglishWord": "n/a",
       "writtenAsFinalForm": "عـ",
       "writtenAsMedialForm": "ـعـ",
       "writtenAsInitialForm": "ـع"
@@ -166,7 +166,7 @@
       "id": "19",
       "letter": "غ",
       "transliteration": "ghayn",
-      "asInEnglishWord": "-",
+      "asInEnglishWord": "n/a",
       "writtenAsFinalForm": "غـ",
       "writtenAsMedialForm": "ـغـ",
       "writtenAsInitialForm": "ـغ"
@@ -184,7 +184,7 @@
       "id": "21",
       "letter": "ق",
       "transliteration": "qāf",
-      "asInEnglishWord": "-",
+      "asInEnglishWord": "n/a",
       "writtenAsFinalForm": "قـ",
       "writtenAsMedialForm": "ـقـ",
       "writtenAsInitialForm": "ـق"
