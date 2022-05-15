@@ -1,10 +1,16 @@
 const express = require("express");
 const arab = express.Router();
 
-const arabicLetters = require("../arabicAlphabet.json");
+// const arabicLetters = require("../arabicAlphabet.json");
 
-arab.get("/", (request, response) => {
-  let letters = arabicLetters.arabicAlphabet;
+const {
+  getAllLetters,
+  getOneLetter,
+} = require("../queries/arabicAlphabetQueries");
+
+arab.get("/", async (request, response) => {
+  let letters = await getAllLetters();
+  // let letters = arabicLetters.arabicAlphabet;
   let { start, end } = request.query;
   start = Number(start);
   end = Number(end);
@@ -17,11 +23,11 @@ arab.get("/", (request, response) => {
   response.json(letters);
 });
 
-arab.get("/:id", (request, response) => {
+arab.get("/:id", async (request, response) => {
   const letterId = request.params.id;
-  let letters = arabicLetters.arabicAlphabet;
-
-  const singleLetter = letters.find((letter) => letter.id === letterId);
+  // let letters = arabicLetters.arabicAlphabet;
+  const singleLetter = await getOneLetter(letterId);
+  // const singleLetter = letters.find((letter) => letter.id === letterId);
   response.json(singleLetter);
 });
 
